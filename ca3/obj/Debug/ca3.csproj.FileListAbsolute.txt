@@ -1,0 +1,6 @@
+D:\projects\Rebuild Nation\ca3\ca3\bin\Debug\ca3.exe.config
+D:\projects\Rebuild Nation\ca3\ca3\bin\Debug\ca3.exe
+D:\projects\Rebuild Nation\ca3\ca3\bin\Debug\ca3.pdb
+D:\projects\Rebuild Nation\ca3\ca3\obj\Debug\ca3.csprojResolveAssemblyReference.cache
+D:\projects\Rebuild Nation\ca3\ca3\obj\Debug\ca3.exe
+D:\projects\Rebuild Nation\ca3\ca3\obj\Debug\ca3.pdb
